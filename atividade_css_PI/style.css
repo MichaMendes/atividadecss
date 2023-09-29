@@ -1,0 +1,62 @@
+.divA{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    height: 700px;
+    width: 700px;
+}
+
+.divB{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 94, 0);
+    height: 600px;
+    width: 600px;
+}
+
+.divC{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 174, 0);
+    height: 500px;
+    width: 500px;
+}
+
+.divD{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(238, 255, 0);
+    height: 400px;
+    width: 400px;
+}
+
+.divE{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(157, 255, 0);
+    height: 300px;
+    width: 300px;
+}
+
+.divF{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 255, 85);
+    height: 200px;
+    width: 200px;
+}
+
+.divG{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 255, 255);
+    height: 100px;
+    width: 100px;
+}
